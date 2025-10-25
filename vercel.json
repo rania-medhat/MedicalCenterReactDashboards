@@ -6,6 +6,6 @@
     }
   ],
   "buildCommand": "vite build",
-  "outputDirectory": "./dist",
+  "outputDirectory": "./build",
   "framework": "vite"
 }
